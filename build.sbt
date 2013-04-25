@@ -5,7 +5,7 @@ scalaVersion := "2.10.1"
 crossScalaVersions := Seq("2.9.2", "2.9.3", "2.10.1")
 
 libraryDependencies ++= Seq(
-  "io.webcrank" %% "webcrank-password" % "0.1"
+  "io.webcrank" %% "webcrank-password" % "0.1-SNAPSHOT"
 )
 
 resolvers ++= Seq(
